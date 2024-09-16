@@ -4,3 +4,8 @@ DevOps is a Practice
 updated the line from the file2
 ubuntu is an Linux flavour
 ubuntu version 24.04
+line1 code
+line2 code 
+line3 code 
+changes in the code 
+python code
