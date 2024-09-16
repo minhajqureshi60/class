@@ -1,3 +1,6 @@
 This is a file created by jameel
 linux is an OS
 DevOps is a Practice
+updated the line from the file2
+ubuntu is an Linux flavour
+ubuntu version 24.04
